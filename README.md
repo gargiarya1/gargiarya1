@@ -1,4 +1,4 @@
-![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
+
 
 ### 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=43&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&random=false&width=1024&height=100&lines=%F0%9F%91%8B+Hi+I'm+Gargi+%E2%9C%A9)](https://git.io/typing-svg)
