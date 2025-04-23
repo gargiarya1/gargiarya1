@@ -50,10 +50,10 @@
 </br>
 </br>
   <pre>
-    🎓 BTech CSE-AI/ML @ University of Engineering and Management, Jaipur
-    🌐 Web Development • UI/UX Design • Digital Marketing • Machine Learnig
+    🎓 BTech CSE-Data Science @ University of Engineering and Management, Jaipur
+    🌐 Web Development • Android Development • UI/UX Design • Machine Learnig
     🛠️ Enthusiast of Cutting-edge Technologies
-    🎮 Music • Games • Anime • Code • Art
+    🎮 Music • Code • Art
     🤝 Open to Collaboration • Pushing Technological Boundaries 🐤🐥
 </pre>
 
