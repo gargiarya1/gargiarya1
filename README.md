@@ -14,7 +14,7 @@
 
 ## 🌸 About Me
 
-I'm a passionate full-stack web developer currently pursuing a **B.Tech in Computer Science (AI/ML)** from the **University of Engineering and Management, Jaipur**.
+I'm a passionate full-stack web developer currently pursuing a **B.Tech in Computer Science (Data Science)** from the **University of Engineering and Management, Jaipur**.
 
 I bring a strong focus on creating **beautiful and functional web experiences**, with a love for both **code and creativity**. My goal is to contribute to innovative solutions, build clean UIs, and explore the ever-evolving world of technology.
 
